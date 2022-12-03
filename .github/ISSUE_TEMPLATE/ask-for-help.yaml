@@ -1,5 +1,5 @@
 name: "❓ Ask for help"
-description: "Submit any question related to Uptime Kuma"
+description: "Submit any question related to Monitor State"
 #title: "[Help] "
 labels: [help]
 body:

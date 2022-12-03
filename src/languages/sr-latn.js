@@ -85,7 +85,7 @@ export default {
     "Disable Auth": "Isključi autentifikaciju",
     "Enable Auth": "Uključi autentifikaciju",
     "disableauth.message1": "Da li ste sigurni da želite da <strong>isključite autentifikaciju</strong>?",
-    "disableauth.message2": "To je za <strong>one koji imaju dodatu autentifikaciju</strong> ispred Uptime Kuma kao na primer Cloudflare Access.",
+    "disableauth.message2": "To je za <strong>one koji imaju dodatu autentifikaciju</strong> ispred Monitor State kao na primer Cloudflare Access.",
     "Please use this option carefully!": "Molim Vas koristite ovo sa pažnjom.",
     Logout: "Odloguj se",
     Leave: "Izađi",

@@ -21,7 +21,7 @@ class Pushbullet extends NotificationProvider {
             if (heartbeatJSON == null) {
                 let data = {
                     "type": "note",
-                    "title": "Uptime Kuma Alert",
+                    "title": "Monitor State Alert",
                     "body": msg,
                 };
                 await axios.post(pushbulletUrl, data, config);

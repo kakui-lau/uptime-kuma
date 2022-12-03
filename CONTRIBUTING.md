@@ -1,6 +1,6 @@
 # Project Info
 
-First of all, thank you everyone who made pull requests for Uptime Kuma, I never thought GitHub Community can be that nice! And also because of this, I also never thought other people actually read my code and edit my code. It is not structured and commented so well, lol. Sorry about that.
+First of all, thank you everyone who made pull requests for Monitor State, I never thought GitHub Community can be that nice! And also because of this, I also never thought other people actually read my code and edit my code. It is not structured and commented so well, lol. Sorry about that.
 
 The project was created with vite.js (vue3). Then I created a subdirectory called "server" for server part. Both frontend and backend share the same package.json.
 
@@ -25,7 +25,7 @@ The frontend code build into "dist" directory. The server (express.js) exposes t
 - src (Frontend source code)
 - test (unit test)
 
-## Can I create a pull request for Uptime Kuma?
+## Can I create a pull request for Monitor State?
 
 Yes or no, it depends on what you will try to do. Since I don't want to waste your time, be sure to **create an empty draft pull request or open an issue, so we can discuss first**. Especially for a large pull request or you don't know it will be merged or not.
 
@@ -45,7 +45,7 @@ Here are some references:
 - Any breaking changes
 - Duplicated pull request
 - Buggy
-- UI/UX is not close to Uptime Kuma 
+- UI/UX is not close to Monitor State 
 - Existing logic is completely modified or deleted for no reason
 - A function that is completely out of scope
 - Unnecessary large code changes (Hard to review, causes code conflicts to other pull requests)
@@ -157,7 +157,7 @@ npm run build
 
 ### Frontend Details
 
-Uptime Kuma Frontend is a single page application (SPA). Most paths are handled by Vue Router.
+Monitor State Frontend is a single page application (SPA). Most paths are handled by Vue Router.
 
 The router is in `src/router.js`
 

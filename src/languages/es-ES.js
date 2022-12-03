@@ -85,7 +85,7 @@ export default {
     "Disable Auth": "Deshabilitar autenticación",
     "Enable Auth": "Habilitar autenticación",
     "disableauth.message1": "Seguro que deseas <strong>deshabilitar la autenticación</strong>?",
-    "disableauth.message2": "Es para <strong>quien implementa autenticación de terceros</strong> ante Uptime Kuma como por ejemplo Cloudflare Access.",
+    "disableauth.message2": "Es para <strong>quien implementa autenticación de terceros</strong> ante Monitor State como por ejemplo Cloudflare Access.",
     "Please use this option carefully!": "Por favor usar con cuidado.",
     Logout: "Cerrar sesión",
     Leave: "Salir",

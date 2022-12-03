@@ -8,9 +8,9 @@ Do not use the issue tracker or discuss it in the public as it will cause more d
 
 ## Supported Versions
 
-### Uptime Kuma Versions
+### Monitor State Versions
 
-You should use or upgrade to the latest version of Uptime Kuma. All `1.X.X` versions are upgradable to the lastest version.
+You should use or upgrade to the latest version of Monitor State. All `1.X.X` versions are upgradable to the lastest version.
 
 ### Upgradable Docker Tags
 

@@ -10,7 +10,7 @@ class Discord extends NotificationProvider {
         let okMsg = "Sent Successfully.";
 
         try {
-            const discordDisplayName = notification.discordUsername || "Uptime Kuma";
+            const discordDisplayName = notification.discordUsername || "Monitor State";
 
             // If heartbeatJSON is null, assume we're testing.
             if (heartbeatJSON == null) {
